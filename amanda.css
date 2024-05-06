@@ -1,0 +1,14 @@
+.body{
+    width: 595px;
+    height: 842px;
+    border: 1px solid purple;
+    margin: auto;
+    position: relative;
+}
+
+.img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    border-radius: 150px;
+}
